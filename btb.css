@@ -1,0 +1,81 @@
+body{
+    background-color: lightskyblue;
+    margin: 0%;
+    text-transform: capitalize;
+}
+header{
+    background-color: orange;
+    padding:20px 20px;
+    color: white;
+}
+img{
+    border-radius: 10px;
+}
+nav ul li {
+    background-color: orange;
+    width: 20%;
+    font-size: 27px;
+    margin: 10px;
+    border-radius: 10px;
+    list-style-type: none;
+ padding: 10px 10px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav ul{
+    padding-left: 0%;
+}
+nav li:hover{
+    background-color: darkslategrey;
+}
+aside h2{
+    margin-left: 20px;
+}
+aside ol li{
+padding: 20px;
+background-color: rgb(122, 128, 128);
+}  
+aside li{
+    border-bottom: solid 1px red;
+    font-size: 30px;
+}
+aside ol{
+    background-color: rgb(122, 128, 128);
+    margin: 10px;
+}
+table,
+tr,
+td,
+th {
+    font-size: 30px;
+    padding: 20px;
+ 
+}
+table a {
+    text-decoration: none;
+    text-align: right;
+   background-color: rgb(99, 99, 99);
+   color: orange;
+   padding: 13px;
+}
+.align-left{
+    text-align: left;
+}
+
+#blue{
+    background-color: rgb(0, 157, 209);
+    color: white;
+}
+.grey{
+    background-color: lightslategray;
+}
+footer{
+    font-size: 20px;
+    border: solid orange 10px;
+    background-color: rgb(0, 107, 110);
+    color: white;
+    padding: 20px;
+    margin:20px;
+}
